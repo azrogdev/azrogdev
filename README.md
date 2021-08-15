@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @azrogdev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ReactJS & Javascript
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on many JS projects
+- 📫 How to reach me ? azrogdiscord@gmail.com
 
-<!---
-azrogdev/azrogdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
