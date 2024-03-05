@@ -20,6 +20,4 @@ Cet écosystème unique est conçu pour amplifier votre créativité, optimiser 
 - **Email**: soon..
 - **Discord**: azrog
 
-![Azrog](https://github-readme-stats.vercel.app/api?username=azrogdev&show_icons=true&theme=radical)
-
 > N'hésitez pas à jeter un œil à mes projets et à me contacter pour toute collaboration ou question !
